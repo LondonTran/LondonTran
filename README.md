@@ -1,5 +1,6 @@
-### Hi there 👋
+Hi! 👋
 
+My name is London Tran and I am a software developer specializing in Flutter. So far, I have published two mobile apps in the Google Play Store. I am currently working on MoodApp, a Flutter mobile app that gives users the power to express their current mood to friends and family without saying a word.
 <!--
 **LondonTran/LondonTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
