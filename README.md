@@ -1,6 +1,4 @@
-Hi! 👋
-
-My name is London Tran and I am a software developer specializing in Flutter. I have published two mobile apps in the Google Play Store. I am currently learning Figma and Flutter clean architecture.
+I am a software developer specializing in Flutter. I have published two mobile apps in the Google Play Store. I am currently learning Figma and Flutter clean architecture.
 <!--
 **LondonTran/LondonTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
