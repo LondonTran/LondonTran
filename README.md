@@ -1,7 +1,6 @@
 I am a software developer with knowledge in Java.
 I am currently studying Python.
-I have past experience with web and Android development.
-I have published two mobile apps in the Google Play Store. 
+I have past experience with web and Android development and I have published two mobile apps in the Google Play Store. 
 <!--
 **LondonTran/LondonTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
